@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ilkertrker/ilkertrker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 I’m currently working on data analysis projects to extract valuable insights and patterns from large datasets.
+🌱 I’m currently learning advanced statistical modeling techniques and machine learning algorithms to enhance my data analysis skills.
+👯 I’m looking to collaborate on cross-functional projects that involve data-driven decision-making and analysis.
+🤔 I’m looking for help with data visualization techniques to effectively communicate data insights to non-technical stakeholders.
+💬 Ask me about data cleaning, exploratory data analysis, and data visualization techniques.
+📫 How to reach me: You can reach me via email at [ilker.turker@outlook.com] or connect with me on LinkedIn.
+😄 Pronouns: He/him
+⚡ Fun fact: I enjoy participating in data science hackathons and solving real-world problems using data-driven approaches.
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="100"/>
 </div>
 
 <td colspan="2" rowspan="2">
