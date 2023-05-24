@@ -26,31 +26,52 @@
 -😄 Pronouns: He/him <br />
 -⚡ Fun fact: I enjoy participating in data science hackathons and solving real-world problems using data-driven approaches. <br />
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain-wordmark.svg" title="Behance" alt="Behance " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHyb" **alt="Git" width="40" height="40"/>
-</div>
+
+<div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>### :hammer_and_wrench: Languages and Tools :</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-plain-wordmark.svg" title="Behance" alt="Behance " width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"></a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"></a>
+        </td>
+    </tr>
+</table>
+
+
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkertrker&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkertrker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=ilkertrker&amp;count_private=true&amp;hide_border=true&amp;show_icons=true&amp;theme=radical" rel="nofollow"></a>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>### :fire: GitHub Streak :</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>### :fire: Top Langs :</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="http://github-readme-streak-stats.herokuapp.com?user=ilkertrker&theme=dark&background=000000">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=ilkertrker&theme=dark&background=000000">
+        </a>
         </td>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=ilkertrker&amp;hide_border=true&amp;theme=radical" rel="nofollow"></a>
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkertrker&layout=compact&theme=vision-friendly-dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkertrker&layout=compact&theme=vision-friendly-dark">
+        </a>
         </td>
+    </tr>
+</table>
