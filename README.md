@@ -13,7 +13,7 @@
 -⚡ Fun fact: I enjoy participating in data science hackathons and solving real-world problems using data-driven approaches. <br />
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" />
 </div>
 
 <td colspan="2" rowspan="2">
